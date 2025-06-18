@@ -1,4 +1,4 @@
-import { registerPage } from "../../pages/registerpage"
+import { registerPage } from "../../pages/registerPage";
 import registerData from '../../fixtures/registerData.json'
 
 const registerObj =   new registerPage() //object created
